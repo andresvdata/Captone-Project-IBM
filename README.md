@@ -45,30 +45,8 @@ Executive Summary
 * Perform predictive analysis using classification models
     * The object of model was created, then the hyperparameters were evaluated and selected based on r2 score and result was compared to other ML models.
 
-## Getting Started
-
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
-    
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
-
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
-
-5. Follow setup [instructions](Link to file)
-
 ## Featured Notebooks/Analysis/Deliverables
-
-Data collection methodology:
-Data was collected from two sources : SpaceX public API and Wikipedia.
-Perform data wrangling
-Data wrangling by landing success.
-Perform exploratory data analysis (EDA) using visualization and SQL
-Perform interactive visual analytics using Folium and Plotly Dash
-Perform predictive analysis using classification models
-The object of model was created, then the hyperparameters were evaluated and selected based on r2 score and result was compared to other ML models.
+There are the following steps to review the project:
 
 * [Data collection](/Data%20Collection)
 * [data Wrangling](/Data%20Wrangling)
