@@ -61,27 +61,3 @@ There are the following steps to review the project:
 
 
 
-
-
-
-
-
-
-
-# Winning Space Race with Data Science (SpaceX) - Captonew Project IBM
-
-
-## Executive Summary
-For this project, the data was collected from the public SpaceX API and the SpaceX Wikipedia page. Then, a column called 'class' was added to classify successful landings. To analyze the data, SQL, visualizations, folium maps, and dashboards were used. The relevant columns as features for further analysis were selected.
-
-Next, the categorical variables were transformed into binary using a technique called one-hot encoding. The data was standardized, and GridSearchCV was used to find the best parameters for the machine learning models. Finally, the accuracy scores of all the models were visualized.
-
-Four machine learning models were considered: Logistic Regression, Support Vector Machine, Decision Tree Classifier, and K Nearest Neighbors. Surprisingly, all the models produced similar results, with an accuracy rate of around 83.33%. However, it's important to note that all the models tended to over-predict successful landings.
-
-## Introduction
-
-### Problem
-*  Space Y aims to develop the capability to predict whether or not the first stage of a
-rocket can be successfully recovered.
-
-
