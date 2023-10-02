@@ -70,7 +70,7 @@ Perform interactive visual analytics using Folium and Plotly Dash
 Perform predictive analysis using classification models
 The object of model was created, then the hyperparameters were evaluated and selected based on r2 score and result was compared to other ML models.
 
-* [Data collection](/https://github.com/andresvdata/Winning-Space-Race-with-Data-Science-SpaceX_Captone-Project-IBM/tree/main/Data%20Collection)
+* [Data collection](/Data%20Collection)
 * [Notebook/Markdown/Slide DeckTitle](link)
 * [Blog Post](link)
 
