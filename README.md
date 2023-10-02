@@ -54,7 +54,7 @@ There are the following steps to review the project:
 * [EDA with Seaborn](/EDA%20with%20Seaborn)
 * [EDA with Data Visualization](/EDA%20with%20Data%20Visualization)
 * [Predictive Analysis](/Predictive%20analysis%20(Classification))
-* [Iteractive Visual ANalytics with Folium](/Interactive%20Visual%20Analytics%20with%20Folium%20lab)
+* [Iteractive Visual Analytics with Folium](/Interactive%20Visual%20Analytics%20with%20Folium%20lab)
 
 ## Contact
 * Feel free to contact me for any questions!
