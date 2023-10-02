@@ -1,5 +1,5 @@
 # Winning Space Race with Data Science (SpaceX) - Captonew Project IBM
-I will be a Data Scientist working for a startup intending to compete with SpaceX, and in the process follow the Data Science methodology involving data collection, data wrangling, exploratory data analysis, data visualization, model development, model evaluation, and reporting your results to stakeholders.  
+As a Data Scientist, I will be employed by a startup with the goal of competing with SpaceX, and in the process, the Data Science methodology will be followed, which includes data collection, data wrangling, exploratory data analysis, data visualization, model development, model evaluation, and reporting of results to stakeholders.
 
 ![](https://media1.giphy.com/media/3ohs4gSs3V0Q7qOtKU/giphy.gif)
 
