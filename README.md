@@ -71,8 +71,12 @@ Perform predictive analysis using classification models
 The object of model was created, then the hyperparameters were evaluated and selected based on r2 score and result was compared to other ML models.
 
 * [Data collection](/Data%20Collection)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
+* [data Wrangling](/Data%20Wrangling)
+* [EDA with SQL](/EDA%20with%20SQL)
+* [EDA with Seaborn](/EDA%20with%20Seaborn)
+* [EDA with Data Visualization](/EDA%20with%20Data%20Visualization)
+* [Predictive Analysis](/Predictive%20Analysis)
+* [Iteractive Visual ANalytics with Folium](/Iteractive%20Visual%20ANalytics%20with%20Foliumn)
 
 
 ## Contact
