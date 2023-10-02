@@ -6,19 +6,11 @@ I will be a Data Scientist working for a startup intending to compete with Space
 
 
 ## Executive Summary
-I collected data from the public SpaceX API and the SpaceX Wikipedia page. Then, I added a
-column called 'class' to classify successful landings. To analyze the data, I used SQL,
-visualizations, folium maps, and dashboards. I selected the relevant columns as features for
-further analysis.
-*  Next, I converted all the categorical variables into binary using a technique called one hot
-encoding. I standardized the data and used GridSearchCV to find the best parameters for the
-machine learning models. Finally, I visualized the accuracy scores of all the models.
-*  I created four machine learning models: Logistic Regression, Support Vector Machine, Decision
-Tree Classifier, and K Nearest Neighbors. Surprisingly, all the models produced similar results,
-with an accuracy rate of around 83.33%. However, it's important to note that all the models
-tended to over-predict successful landings.
-*  To improve the model's accuracy and make more accurate predictions, we need to gather more
-data
+For this project, the data was collected from the public SpaceX API and the SpaceX Wikipedia page. Then, a column called 'class' was added to classify successful landings. To analyze the data, SQL, visualizations, folium maps, and dashboards were used. The relevant columns as features for further analysis were selected.
+
+Next, the categorical variables were transformed into binary using a technique called one-hot encoding. The data was standardized, and GridSearchCV was used to find the best parameters for the machine learning models. Finally, the accuracy scores of all the models were visualized.
+
+Four machine learning models were considered: Logistic Regression, Support Vector Machine, Decision Tree Classifier, and K Nearest Neighbors. Surprisingly, all the models produced similar results, with an accuracy rate of around 83.33%. However, it's important to note that all the models tended to over-predict successful landings.
 
 ## Introduction
 ### Background
