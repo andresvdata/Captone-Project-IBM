@@ -75,9 +75,8 @@ The object of model was created, then the hyperparameters were evaluated and sel
 * [EDA with SQL](/EDA%20with%20SQL)
 * [EDA with Seaborn](/EDA%20with%20Seaborn)
 * [EDA with Data Visualization](/EDA%20with%20Data%20Visualization)
-* [Predictive Analysis](/Predictive%20Analysis)
-* [Iteractive Visual ANalytics with Folium](/Iteractive%20Visual%20ANalytics%20with%20Foliumn)
-
+* [Predictive Analysis](/Predictive%20analysis%20(Classification))
+* [Iteractive Visual ANalytics with Folium](/Interactive%20Visual%20Analytics%20with%20Folium%20lab)
 
 ## Contact
 * Feel free to contact me for any questions!
